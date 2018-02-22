@@ -55,9 +55,6 @@
     <ClCompile Include="Source\itemManager.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="LICENCE">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
@@ -115,6 +112,5 @@
     <None Include="Shaders\3DColor.vert">
       <Filter>Shaders</Filter>
     </None>
-    <None Include="readme.md" />
   </ItemGroup>
 </Project>
